@@ -39,17 +39,9 @@ This project is an implementation of the K-Nearest Neighbors (KNN) algorithm in 
 ## File Structure
 - **main.cpp**: Contains the main function to run the KNN algorithm.
 - **CMakeLists.txt**: Configuration file for building the project with CMake.
-- **CUDA code**: Code for GPU-accelerated computation of distances.
 
 ## Notes
-- The CUDA acceleration is optional, and the program can fall back to a CPU-only implementation if CUDA is not available.
-- Make sure your GPU drivers and CUDA toolkit are properly installed if you wish to use GPU acceleration.
-
-## Contributing
-Contributions are welcome! Feel free to submit pull requests or open issues to improve the project.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+- Only the CPU implementation using C++.
 
 ## Contact
 For questions or suggestions, please contact me at [realzjca@gmail.com](mailto:realzjca@gmail.com).
