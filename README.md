@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) Implementation in C++
+# KNN Implementation in C++
 
 ## Project Overview
 This project is an implementation of the K-Nearest Neighbors (KNN) algorithm in C++, designed for educational purposes and to demonstrate the application of the algorithm in a GPU-accelerated environment. The implementation leverages CUDA to speed up the computation of KNN, making it suitable for larger datasets and exploring GPU computing.
