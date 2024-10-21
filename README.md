@@ -34,13 +34,7 @@ This project is an implementation of the K-Nearest Neighbors (KNN) algorithm in 
    ./knn_cpp
    ```
 
-## Usage
-The KNN implementation allows you to specify the value of `k` and provide your dataset. The program expects a CSV file with data points.
 
-Example usage:
-```sh
-./knn_cpp <path_to_dataset> <k>
-```
 
 ## File Structure
 - **main.cpp**: Contains the main function to run the KNN algorithm.
