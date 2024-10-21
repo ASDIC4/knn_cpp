@@ -5,13 +5,11 @@ This project is an implementation of the K-Nearest Neighbors (KNN) algorithm in 
 
 ## Features
 - Basic KNN algorithm implementation in C++.
-- GPU-accelerated computation using CUDA.
 - Customizable parameters for KNN, such as the number of neighbors (`k`) and distance metrics.
 
 ## Requirements
-- **C++ Compiler**: Tested with Visual Studio 2022.
-- **CUDA Toolkit**: Required for GPU acceleration.
-- **CMake**: Used for building the project.
+- **C++ Compiler**: Tested with Visual Studio 2022, v143.
+- **CMake**: Used for building the project, version 3.27.6.
 - **Git**: To clone the repository.
 
 ## Setup and Installation
